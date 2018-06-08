@@ -1,0 +1,2 @@
+# GCFScrollView
+可以自定义UIScrollView的翻页的宽度
